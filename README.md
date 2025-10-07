@@ -1,7 +1,5 @@
 # Pennsylvania Toll Calculator (AWS Cloud Application)
 
-A serverless toll calculator web application built for **Cloud Architecture (MIS 3502)**
-
 This project leverages **AWS Lambda**, **API Gateway**, and **RDS (MySQL)** to calculate tolls dynamically based on entry and exit interchanges along the Pennsylvania Turnpike.
 
 The goal was to design and deploy a **scalable, serverless cloud application** that replicates the toll calculation system for the Pennsylvania Turnpike. The system retrieves interchange data, calculates tolls, and returns results through REST APIs, all powered by AWS services.
